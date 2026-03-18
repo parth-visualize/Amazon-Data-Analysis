@@ -73,4 +73,4 @@ These visualizations help understand the content patterns on Amazon Prime Video.
 - Building a data analytics portfolio project
 
 👤 Author
-Anmol
+Parth
