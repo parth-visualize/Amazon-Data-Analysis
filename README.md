@@ -76,3 +76,7 @@ These visualizations help understand the content patterns on Amazon Prime Video.
 
 👤 Author
 Parth
+
+
+
+If you like this project, feel free to ⭐ the repository.
